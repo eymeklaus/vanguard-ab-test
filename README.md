@@ -1,7 +1,6 @@
-# vanguard-ab-test
+# **Transforming User Experience: Vanguard A/B Test Results**
 <img width="1620" height="900" alt="vanguard_image" src="https://github.com/user-attachments/assets/bebff061-1dcb-4f6b-a5c3-28dad826cc67" />
 
-# **Transforming User Experience: Vanguard A/B Test Results**
 This repository contains the analysis of an A/B test conducted by Vanguard to evaluate the effectiveness of a redesigned user interface (UI). The new UI introduced modern design elements and in-context prompts to enhance the user experience. This project explores the experiment's results, focusing on user behavior, completion rates, and efficiency improvements.
 
 ## Context & Study Design
