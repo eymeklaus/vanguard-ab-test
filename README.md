@@ -14,9 +14,6 @@ This test was conducted to address a major pain point: Vanguard clients often ab
 - **Process Flow**: An initial page, three steps, and a confirmation page.
 
 **Objective**: Determine if the updated UI improves completion rates and enhances the user experience.
-
-![client_overview_pb](https://github.com/user-attachments/assets/4a0e1d43-a2d9-4181-ba59-9cbe8e83f7c4)
-
 ---
 
 # 📁 Table of Contents
