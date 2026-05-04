@@ -208,13 +208,13 @@ The **new UI is a clear success**, showing **statistically and practically signi
 | **Category**  | **File Name**                                    | **Description**                                        |
 |---------------|--------------------------------------------------|--------------------------------------------------------|
 | **Data**      | `raw_data`                                       | Unprocessed datasets from the experiment               |
-|               | `clean_vanguard.csv`                           | Cleaned and transformed datasets                         |
+|               | `clean_vanguard.csv`                             | Cleaned and transformed datasets                       
 | **Notebooks** | `1_vanguard_cleaning_and_wrangling.ipynb`        | Data exploration, cleaning & wrangling                 |
 |               | `2_vanguard_EDA.ipynb`                           | Exploratory data analysis                              |
 |               | `3_vanguard_KPIs.ipynb`                          | KPI analysis                                           |
 |               | `4_vanguard_hypotheses.ipynb`                    | Statistical hypothesis testing                         |
 | **Visuals**   | `EDA_visuals`                                    | Generated charts and graphs                            |
-|               | `power_bi`                                       | Power BI exports/screenshots                           |
+|               | `Tableau`                                        | Tableau exports/screenshots                            |
 | **Presentation** | `vanguard_ab_test.pdf`                        | Presentation for executives                            |
 
 --- 
