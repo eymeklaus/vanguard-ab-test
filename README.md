@@ -221,11 +221,9 @@ The **new UI significantly improves completion rates** but currently **falls sho
 - **numpy**: Scientific computing with multi-dimensional arrays.  
 - **datetime**: Date and time handling.  
 
-## **Visualization**  
-- **matplotlib**: Static, animated, and interactive plots.  
-- **seaborn**: Statistical graphics built on matplotlib.  
-- **plotly**: Interactive plots and dashboards.  
-
+## **Visualization** 
+ - **Tableau**: Static, animated, and interactive graphics.  
+ 
 ## **Statistical Analysis**  
 - **statsmodels**: Statistical models and hypothesis testing.  
 - **scipy.stats**: Statistical tests and distributions.  
